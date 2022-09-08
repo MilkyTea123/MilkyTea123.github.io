@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MilkyTea123.github.io/static/css/main.css",
-    "main.js": "/MilkyTea123.github.io/static/js/main.js",
-    "main.js.map": "/MilkyTea123.github.io/static/js/main.js.map",
-    "index.html": "/MilkyTea123.github.io/index.html",
-    "precache-manifest.180de35a967b5d873257bddb519ec69a.js": "/MilkyTea123.github.io/precache-manifest.180de35a967b5d873257bddb519ec69a.js",
-    "service-worker.js": "/MilkyTea123.github.io/service-worker.js",
-    "static/css/main.css.map": "/MilkyTea123.github.io/static/css/main.css.map",
-    "static/js/main.js.LICENSE.txt": "/MilkyTea123.github.io/static/js/main.js.LICENSE.txt"
+    "main.css": "/igemeditor/static/css/main.css",
+    "main.js": "/igemeditor/static/js/main.js",
+    "main.js.map": "/igemeditor/static/js/main.js.map",
+    "index.html": "/igemeditor/index.html",
+    "precache-manifest.0996909041785d1d1326e435578558a4.js": "/igemeditor/precache-manifest.0996909041785d1d1326e435578558a4.js",
+    "service-worker.js": "/igemeditor/service-worker.js",
+    "static/css/main.css.map": "/igemeditor/static/css/main.css.map",
+    "static/js/main.js.LICENSE.txt": "/igemeditor/static/js/main.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/css/main.css",

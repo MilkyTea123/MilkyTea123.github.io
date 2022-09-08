@@ -50,7 +50,7 @@
 	"scripts": {
 		"start": "react-scripts start",
 		"predeploy": "npm run build",
-		"deploy": "gh-pages -d build",
+		"deploy": "gh-pages -b master -d build",
 		"build": "node ./scripts/build-non-split.js",
 		"testwatch": "react-scripts test",
 		"test": "CI=true react-scripts test",
