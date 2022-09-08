@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MilkyTea123.github.io/static/css/main.css",
+    "main.js": "/MilkyTea123.github.io/static/js/main.js",
+    "main.js.map": "/MilkyTea123.github.io/static/js/main.js.map",
+    "index.html": "/MilkyTea123.github.io/index.html",
+    "precache-manifest.180de35a967b5d873257bddb519ec69a.js": "/MilkyTea123.github.io/precache-manifest.180de35a967b5d873257bddb519ec69a.js",
+    "service-worker.js": "/MilkyTea123.github.io/service-worker.js",
+    "static/css/main.css.map": "/MilkyTea123.github.io/static/css/main.css.map",
+    "static/js/main.js.LICENSE.txt": "/MilkyTea123.github.io/static/js/main.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/css/main.css",
+    "static/js/main.js"
+  ]
+}
