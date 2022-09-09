@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/igemeditor/precache-manifest.fa3bd860ed0ac2304e748873fcca0566.js"
+  "/igemeditor/precache-manifest.9380dedeff02cca51e3655fac8fe8ee6.js"
 );
 
 self.addEventListener('message', (event) => {
