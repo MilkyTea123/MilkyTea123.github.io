@@ -32,7 +32,7 @@
 		"firebase": "^6.6.2",
 		"firebase-mock": "~2.2.10",
 		"fontfaceobserver": "~2.1.0",
-		"react": "~16.8.6",
+		"react": "^16.8.6",
 		"react-bootstrap": "^1.6.0",
 		"react-bootstrap-icons": "^1.8.4",
 		"react-custom-scrollbars": "^4.2.1",

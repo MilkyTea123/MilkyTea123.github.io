@@ -31,6 +31,7 @@ export const ContentView: React.FC<ContentViewProps> = ({ contentData, pageTitle
 		}
 	}, [contentData, content]);
 
+	console.log(pageTitle);
 	let pageString = pageTitle === "" ? "MAIN_PAGE_DO_NOT_EDIT" :
 		pageTitle.substring(1, pageTitle.length);
 
