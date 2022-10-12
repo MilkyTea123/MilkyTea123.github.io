@@ -4,11 +4,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/igemeditor/index.html"
   },
   {
-    "revision": "cd69a37c5f34ce737b68",
+    "revision": "79a1cabfcc185bdcad3e",
     "url": "/igemeditor/static/css/main.css"
   },
   {
-    "revision": "cd69a37c5f34ce737b68",
+    "revision": "79a1cabfcc185bdcad3e",
     "url": "/igemeditor/static/js/main.js"
   },
   {
